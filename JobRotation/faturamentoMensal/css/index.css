@@ -1,0 +1,35 @@
+h1{
+    text-align: center;
+    font-weight: bold ;
+}
+
+#container{
+    display: block;
+    width: 100%;
+    margin: auto;
+}
+
+#tabela-participacao{
+    border-collapse: collapse;
+    text-align: center;
+    width: 75%;
+    margin: auto;
+}
+
+#tabela-faturamento{
+    border-collapse: collapse;
+    text-align: center;
+    width: 75%;
+    margin: auto;
+    margin-bottom: 50px;
+}
+
+
+td,th{
+    border: 1px solid #000;
+    padding: 10px;
+}
+
+.sigla{
+    width: 25%;
+}
